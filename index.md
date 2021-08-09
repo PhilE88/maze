@@ -7,7 +7,7 @@
   </head>
   
   <body>
-    <p><a href="/maze/c1n.html">Click HERE to Start</a></p>
+    <p><a href="maze/c1n.html">Click HERE to Start</a></p>
   </body>
   
 </html>
